@@ -58,6 +58,7 @@ public class UserInterface {
                 case "R":
                     System.out.println("INFO: Anda memilih menu Read");
                     db.view();
+                    System.out.println("Oleh:nuraeni");
                     break;
 
                 case "U":
